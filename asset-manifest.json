@@ -1,15 +1,15 @@
 {
   "files": {
-    "static/js/0.c3d90ece.chunk.js": "/static/js/0.c3d90ece.chunk.js",
-    "static/js/1.451b4ec2.chunk.js": "/static/js/1.451b4ec2.chunk.js",
+    "static/js/0.3fcd1dd3.chunk.js": "/static/js/0.3fcd1dd3.chunk.js",
+    "static/js/1.be03c194.chunk.js": "/static/js/1.be03c194.chunk.js",
     "main.css": "/static/css/main.05077d71.chunk.css",
-    "main.js": "/static/js/main.991c0bbd.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.d8452a29.js",
-    "static/js/4.259259a1.chunk.js": "/static/js/4.259259a1.chunk.js",
-    "static/js/5.59910ecd.chunk.js": "/static/js/5.59910ecd.chunk.js",
-    "static/js/6.147881c4.chunk.js": "/static/js/6.147881c4.chunk.js",
-    "static/js/7.f2feeb54.chunk.js": "/static/js/7.f2feeb54.chunk.js",
-    "static/js/8.f4a89be3.chunk.js": "/static/js/8.f4a89be3.chunk.js",
+    "main.js": "/static/js/main.4e627772.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.1ed43b20.js",
+    "static/js/4.6a2f4c81.chunk.js": "/static/js/4.6a2f4c81.chunk.js",
+    "static/js/5.e9bae17f.chunk.js": "/static/js/5.e9bae17f.chunk.js",
+    "static/js/6.e4c55180.chunk.js": "/static/js/6.e4c55180.chunk.js",
+    "static/js/7.42da2a54.chunk.js": "/static/js/7.42da2a54.chunk.js",
+    "static/js/8.f6f889c7.chunk.js": "/static/js/8.f6f889c7.chunk.js",
     "static/js/9.d5e1d48a.chunk.js": "/static/js/9.d5e1d48a.chunk.js",
     "static/js/10.55a02fef.chunk.js": "/static/js/10.55a02fef.chunk.js",
     "static/js/11.f43d0cf1.chunk.js": "/static/js/11.f43d0cf1.chunk.js",
@@ -25,12 +25,12 @@
     "static/js/21.3313a264.chunk.js": "/static/js/21.3313a264.chunk.js",
     "static/js/22.33c22f0b.chunk.js": "/static/js/22.33c22f0b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.19a9f6a83015104a696672c53269adb8.js": "/precache-manifest.19a9f6a83015104a696672c53269adb8.js",
+    "precache-manifest.32179b2bc682489a8bc900c0f31e8322.js": "/precache-manifest.32179b2bc682489a8bc900c0f31e8322.js",
     "service-worker.js": "/service-worker.js",
     "static/js/11.f43d0cf1.chunk.js.LICENSE.txt": "/static/js/11.f43d0cf1.chunk.js.LICENSE.txt",
-    "static/js/4.259259a1.chunk.js.LICENSE.txt": "/static/js/4.259259a1.chunk.js.LICENSE.txt",
-    "static/js/5.59910ecd.chunk.js.LICENSE.txt": "/static/js/5.59910ecd.chunk.js.LICENSE.txt",
-    "static/js/7.f2feeb54.chunk.js.LICENSE.txt": "/static/js/7.f2feeb54.chunk.js.LICENSE.txt",
+    "static/js/4.6a2f4c81.chunk.js.LICENSE.txt": "/static/js/4.6a2f4c81.chunk.js.LICENSE.txt",
+    "static/js/5.e9bae17f.chunk.js.LICENSE.txt": "/static/js/5.e9bae17f.chunk.js.LICENSE.txt",
+    "static/js/7.42da2a54.chunk.js.LICENSE.txt": "/static/js/7.42da2a54.chunk.js.LICENSE.txt",
     "static/media/Cipher.png": "/static/media/Cipher.ecd0fe37.png",
     "static/media/Fortmatic.svg": "/static/media/Fortmatic.a0d448ef.svg",
     "static/media/Metamask.png": "/static/media/Metamask.200daea3.png",
@@ -55,9 +55,9 @@
     "static/media/wsteth.svg": "/static/media/wsteth.1071835d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8452a29.js",
-    "static/js/4.259259a1.chunk.js",
+    "static/js/runtime-main.1ed43b20.js",
+    "static/js/4.6a2f4c81.chunk.js",
     "static/css/main.05077d71.chunk.css",
-    "static/js/main.991c0bbd.chunk.js"
+    "static/js/main.4e627772.chunk.js"
   ]
 }
